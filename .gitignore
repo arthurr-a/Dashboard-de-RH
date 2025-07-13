@@ -1,0 +1,16 @@
+# Ignorar arquivos temporários e de cache do Power BI
+.DS_Store
+*.tmp
+*.log
+.pbi/
+# Ignorar arquivos .pbix se estiver usando .pbip
+*.pbix
+# Ignorar arquivos de backup ou temporários do Power BI
+*.bak
+*.tmp
+*.log
+# Ignorar arquivos de cache do Power BI Desktop
+.cache/
+# Ignorar arquivos de metadados específicos do usuário
+.editorSettings.json
+.localSettings.json

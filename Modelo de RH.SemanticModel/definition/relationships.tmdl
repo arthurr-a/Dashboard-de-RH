@@ -1,0 +1,5 @@
+relationship 57f2d528-2848-4d4a-9145-9902ba866416
+	joinOnDateBehavior: datePartOnly
+	fromColumn: tb_rh.'DATA ADIMISSAO'
+	toColumn: LocalDateTable_b9b17793-dfcb-4070-99e1-05f8207dfd55.Date
+

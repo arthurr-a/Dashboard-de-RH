@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "Modelo de RH"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "4bec3503-f450-430a-b802-b58d2ae20268"
+  }
+}
